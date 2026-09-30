@@ -1,6 +1,6 @@
 # Hi there, I'm Rishi Vishwakarma 👋
 
-### 🚀 Aspiring Full-Stack Developer | BCA Student
+### 🚀 Aspiring Full-Stack Developer | MCA Student
 I am a passionate developer focused on building scalable web applications and infrastructure monitoring tools. I enjoy bridging the gap between complex backend logic and interactive frontend designs.
 
 - 🛠️ Currently working with **Python (Flask)** and **SQLAlchemy**.

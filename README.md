@@ -27,7 +27,7 @@ I am a passionate developer focused on building scalable web applications. I enj
 
 ### 📂 Featured Project
 
-- **[Litera Lumina](git@github.com:rishivishwakarma123/LITERA-LUMINA.git)**
+- **[Litera Lumina](https://github.com/rishivishwakarma123/LITERA-LUMINA)**
   A feature-rich full-stack web application designed for seamless digital bookstore operations and user interaction.
   - **Frontend:** React, TypeScript, Tailwind CSS
   - **Backend:** Java, Spring Boot, Hibernate ORM
